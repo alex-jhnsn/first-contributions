@@ -1,5 +1,6 @@
 # Contributors
 
+- [Alex Johnson](https://github.com/alex-jhnsn)
 - [Lydia Lane] (https://github.com/LydiaLane)
 - [Shaurya Bagga](https://github.com/shauryabagga)
 - [TheGeekNamedHarry (HacktoberFest 2018 is awesome)](https://github.com/TheGeekNamedHarry)
